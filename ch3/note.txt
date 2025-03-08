@@ -1,0 +1,1 @@
+update jdk on code space: sdk install java 21.0.6-amzn
