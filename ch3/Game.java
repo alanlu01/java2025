@@ -38,3 +38,4 @@ public class Game {
         }
     }
 }
+// run:java ntou.cs.java2025.Game
