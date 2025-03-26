@@ -1,0 +1,16 @@
+1. 皮卡丘 (Pikachu) (ELECTRIC, 750)
+2. 雷丘 (Raichu) (ELECTRIC, 950)
+3. 傑尼龜 (Squirtle) (WATER, 550)
+4. 可達鴨 (Psyduck) (WATER, 620)
+5. 小火龍 (Charmander) (FIRE, 650)
+6. 噴火龍 (Charizard) (FIRE, 1100)
+7. 妙蛙種子 (Bulbasaur) (GRASS, 600)
+8. 妙蛙花 (Venusaur) (GRASS, 1020)
+9. 超夢 (Mewtwo) (PSYCHIC, 1200)
+10. 胡地 (Alakazam) (PSYCHIC, 980)
+
+最強的Pokemon：超夢 (Mewtwo) (PSYCHIC, 1200)
+
+水系Pokemon：
+傑尼龜 (Squirtle) (WATER, 550)
+可達鴨 (Psyduck) (WATER, 620)
