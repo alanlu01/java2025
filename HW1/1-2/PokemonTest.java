@@ -1,3 +1,4 @@
+package ntou.cs.java2025;
 public class PokemonTest {
     public static void main(String[] args) {
         // Add Pokemon to the Collection

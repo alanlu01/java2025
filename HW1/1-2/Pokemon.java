@@ -1,3 +1,4 @@
+package ntou.cs.java2025;
 public class Pokemon {
     private final String name;
     private final PokemonType type;
