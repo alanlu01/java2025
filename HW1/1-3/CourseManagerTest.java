@@ -1,3 +1,4 @@
+package ntou.cs.java2025;
 public class CourseManagerTest {
     public static void main(String[] args) {
         try {

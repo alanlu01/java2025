@@ -1,3 +1,4 @@
+package ntou.cs.java2025;
 public class Student {
     private final String name;
 
