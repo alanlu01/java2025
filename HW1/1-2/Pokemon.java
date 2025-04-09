@@ -1,4 +1,5 @@
 package ntou.cs.java2025;
+//01257117呂翰昇
 public class Pokemon {
     private final String name;
     private final PokemonType type;

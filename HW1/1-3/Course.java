@@ -1,4 +1,4 @@
-package ntou.cs.java2025;
+package ntou.cs.java2025;//01257117呂翰昇
 import java.util.ArrayList;
 
 public class Course {
@@ -9,19 +9,15 @@ public class Course {
     public Course (String courseName, int maxStudents) {
         // 檢查課程名稱
         if (courseName == null || courseName.isEmpty()) {
-            System.out.println("Course name cannot be null or empty");
-            this.courseName = "Unknown";
-        } else {
-            this.courseName = courseName;
+            throw new IllegalArgumentException("Course name cannot be null or empty");
         }
+        this.courseName = courseName;
         
         // 檢查最大學生數
         if (maxStudents <= 0) {
-            System.out.println("Maximum students must be a positive integer");
-            this.maxStudents = 10; // 預設值
-        } else {
-            this.maxStudents = maxStudents;
+            throw new IllegalArgumentException("Maximum students must be a positive integer");
         }
+        this.maxStudents = maxStudents;
         
         this.studentList = new ArrayList<>();
     }

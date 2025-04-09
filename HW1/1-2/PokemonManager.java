@@ -1,4 +1,4 @@
-package ntou.cs.java2025;
+package ntou.cs.java2025;//01257117呂翰昇
 // Pokemon收藏管理器
 class PokemonManager {
     private static final int MAX_SIZE = 10;

@@ -1,6 +1,7 @@
 package ntou.cs.java2025;
 // CrapsTest.java
 // 模擬1000場Craps遊戲並分析結果
+//01257117呂翰昇
 
 public class CrapsTest {
     public static void main(String[] args) {
