@@ -10,9 +10,6 @@ public class Shirt extends Clothing {
 
     @Override
     public String toString() {
-        return getName() + " | Price: $" + String.format("%.2f", getPrice())
-               + " | Quantity: " + getQuantity()
-               + " | Size: " + getSize()
-               + " | Material: " + material;
+        return super.toString() + " | Material: " + material;
     }
 }

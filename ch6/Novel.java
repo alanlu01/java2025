@@ -10,9 +10,6 @@ public class Novel extends Book {
 
     @Override
     public String toString() {
-        return getName() + " | Price: $" + String.format("%.2f", getPrice())
-               + " | Quantity: " + getQuantity()
-               + " | Author: " + getAuthor()
-               + " | Genre: " + genre;
+        return super.toString() + " | Genre: " + genre;
     }
 }

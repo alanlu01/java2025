@@ -20,15 +20,6 @@ public class Book extends Product {
 
     @Override
     public String toString() {
-        return getName() + " | Price: $" + String.format("%.2f", getPrice())
-               + " | Quantity: " + getQuantity()
-               + " | Author: " + author;
+        return super.toString() + " | Author: " + author;
     }
 }
-
-/*
- * @Override
-public String toString() {
-    return super.toString() + " | Author: " + author;
-}
- */

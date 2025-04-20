@@ -19,8 +19,6 @@ public class Clothing extends Product {
 
     @Override
     public String toString() {
-        return getName() + " | Price: $" + String.format("%.2f", getPrice())
-               + " | Quantity: " + getQuantity()
-               + " | Size: " + size;
+        return super.toString() + " | Size: " + size;
     }
 }
