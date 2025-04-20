@@ -25,3 +25,10 @@ public class Book extends Product {
                + " | Author: " + author;
     }
 }
+
+/*
+ * @Override
+public String toString() {
+    return super.toString() + " | Author: " + author;
+}
+ */
