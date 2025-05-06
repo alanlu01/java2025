@@ -1,0 +1,28 @@
+Bot: Hi, I'm Chatbot! How can I help you today?
+You: hello
+Bot: Hello there!
+You: hi
+Bot: Hello there!
+You: hey
+Bot: Hello there!
+You: tell me a joke
+Bot: Why was the math book sad? Because it had too many problems!
+You: another joke please
+Bot: Why don't skeletons fight each other? They don't have the guts!
+You: you are great
+Bot: Thank you!
+You: I still feel sad
+Bot: Always remember that tough times don't last, but tough people do.
+You: also tired
+Bot: Don't stress, do your best, and forget the rest.
+You: STRESSED!
+Bot: Don't stress, do your best, and forget the rest.
+You: OK, i am happy now
+Bot: Keep smiling, because life is a beautiful thing and there's so much to smil
+e about.
+You: a final joke, please
+Bot: Why did the bicycle fall over? Because it was two-tired!
+You: good joke!
+Bot: Thank you!
+You: BYE!
+Bot: Goodbye!

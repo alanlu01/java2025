@@ -1,0 +1,24 @@
+Role [name=Captain America, hp=743, offense=218, defense=27]
+Role [name=Iron Man, hp=796, offense=175, defense=75]
+Captain America causes damage: 143
+Iron Man's HP becomes 653
+Iron Man causes damage: 148
+Captain America's HP becomes　595
+Captain America causes damage: 143
+Iron Man's HP becomes 510
+Iron Man causes damage: 148
+Captain America's HP becomes　447
+Captain America causes damage: 143
+Iron Man's HP becomes 367
+Iron Man causes damage: 148
+Captain America's HP becomes　299
+Captain America causes damage: 143
+Iron Man's HP becomes 224
+Iron Man causes damage: 148
+Captain America's HP becomes　151
+Captain America causes damage: 143
+Iron Man's HP becomes 81
+Iron Man causes damage: 148
+Captain America's HP becomes　3
+Captain America causes damage: 143
+Captain America defeats Iron Man!

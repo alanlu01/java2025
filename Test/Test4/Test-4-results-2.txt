@@ -1,0 +1,12 @@
+SuperRole [name=Captain America, hp=978, offense=0, defense=49][a weapon with of
+fense 241]
+SuperRole [name=Iron Man, hp=575, offense=0, defense=42][a weapon with offense 1
+64]
+Captain America is on fire!!
+Captain America causes damage: 398
+Iron Man's HP becomes 177
+Iron Man causes damage: 115
+Captain America's HP becomes　863
+Captain America causes damage: 199
+Captain America defeats Iron Man!
+

@@ -1,0 +1,103 @@
+Please input your choice (0: quit, 1: play, 2: restart): 1
+You got Three of Hearts, point is 3.
+You got Nine of Spades, point is 9.
+You got Five of Hearts, point is 5.
+You got Ten of Spades, point is 10.
+You got Seven of Clubs, point is 7.
+Your total point is 34.
+
+Please input your choice (0: quit, 1: play, 2: restart): 1
+You got Seven of Diamonds, point is 7.
+You got Six of Hearts, point is 6.
+You got Nine of Diamonds, point is 9.
+You got Nine of Clubs, point is 9.
+You got Jack of Hearts, point is 11.
+Your total point is 42.
+
+Please input your choice (0: quit, 1: play, 2: restart): 1
+You got Jack of Diamonds, point is 11.
+You got Three of Clubs (Ghost), point is 3.
+You got a Ghost card!
+You got Queen of Diamonds, point is 12.
+You got Queen of Spades, point is 12.
+You got Three of Diamonds, point is 3.
+Ghost doubles the points!
+Your total point is 82.
+
+Please input your choice (0: quit, 1: play, 2: restart): 1
+You got Queen of Hearts, point is 12.
+You got Six of Clubs, point is 6.
+You got Five of Spades, point is 5.
+You got Ace of Diamonds, point is 20.
+You got Ten of Diamonds, point is 10.
+Your total point is 53.
+
+Please input your choice (0: quit, 1: play, 2: restart): 1
+You got Five of Diamonds, point is 5.
+You got Deuce of Spades, point is 2.
+You got Nine of Hearts, point is 9.
+You got King of Diamonds (Ghost), point is 13.
+You got a Ghost card!
+You got Eight of Spades, point is 8.
+Ghost doubles the points!
+Your total point is 74.
+
+Please input your choice (0: quit, 1: play, 2: restart): 1
+You got Six of Diamonds, point is 6.
+You got Deuce of Hearts, point is 2.
+You got Six of Spades, point is 6.
+You got King of Clubs, point is 13.
+You got King of Hearts, point is 13.
+Your total point is 40.
+
+Please input your choice (0: quit, 1: play, 2: restart): 1
+You got Seven of Hearts, point is 7.
+You got Five of Clubs, point is 5.
+You got Four of Diamonds, point is 4.
+You got Ace of Hearts, point is 20.
+You got Four of Clubs, point is 4.
+Your total point is 40.
+
+Please input your choice (0: quit, 1: play, 2: restart): 1
+You got Queen of Clubs, point is 12.
+You got Jack of Clubs, point is 11.
+You got Eight of Clubs, point is 8.
+You got Four of Spades, point is 4.
+You got Three of Spades, point is 3.
+Your total point is 38.
+
+Please input your choice (0: quit, 1: play, 2: restart): 1
+You got Ten of Hearts (Ghost), point is 10.
+You got a Ghost card!
+You got Deuce of Clubs, point is 2.
+You got Ten of Clubs, point is 10.
+You got Four of Hearts, point is 4.
+You got Seven of Spades, point is 7.
+Ghost doubles the points!
+Your total point is 66.
+
+Please input your choice (0: quit, 1: play, 2: restart): 1
+You got Ace of Spades, point is 20.
+You got Eight of Diamonds, point is 8.
+You got Eight of Hearts, point is 8.
+You got King of Spades (Ghost), point is 13.
+You got a Ghost card!
+You got Jack of Spades, point is 11.
+Ghost doubles the points!
+Your total point is 120.
+
+Please input your choice (0: quit, 1: play, 2: restart): 1
+You got Deuce of Diamonds, point is 2.
+You got Ace of Clubs, point is 20.
+No card can be dealt, please restart the game!
+
+Please input your choice (0: quit, 1: play, 2: restart): 1
+No card can be dealt, please restart the game!
+
+Please input your choice (0: quit, 1: play, 2: restart): 2
+You got Queen of Hearts, point is 12.
+You got Nine of Spades, point is 9.
+You got Queen of Spades, point is 12.
+You got Deuce of Diamonds, point is 2.
+You got Six of Hearts, point is 6.
+Your total point is 41.
