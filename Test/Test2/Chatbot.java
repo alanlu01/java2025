@@ -53,7 +53,7 @@ public class Chatbot {
 				"Why don't skeletons fight each other? They don't have the guts!",
 				"Why do seagulls fly over the sea? Because if they flew over the bay, they'd be bagels!" };
 		// TODO random jokes
-		int ran = random.nextInt(4);
+		int ran = random.nextInt(jokes.length);
 		return jokes[ran];
 	}
 
