@@ -1,3 +1,4 @@
+package ntou.cs.java2025;
 // Program that creates a panel for the user to draw shapes.
 // Allows the user to choose the shape and color.
 import java.awt.BorderLayout;
@@ -57,11 +58,16 @@ public class DrawFrame extends JFrame implements ItemListener, ActionListener {
 
 	// handle selections made to a combo box of check box
 	public void itemStateChanged(ItemEvent e) {
-		// TODO
+		if (e.getSource() == colorChoices) {
+			int index = colorChoices.getSelectedIndex();
+			drawPanel.setDrawingColor(colors[index]);
+		}
 	} // end method itemStateChanged
 
 	// handle button clicks
 	public void actionPerformed(ActionEvent e) {
-		// TODO
+		if (e.getSource() == clearButton) {
+			drawPanel.clearDrawing();
+		}
 	} // end method actionPerformed
 } // end class DrawFrame

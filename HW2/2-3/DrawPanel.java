@@ -1,3 +1,4 @@
+package ntou.cs.java2025;
 // JPanel that allows the user to draw shapes with the mouse. 
 import java.awt.Color;
 import java.awt.Graphics;
@@ -38,7 +39,9 @@ public class DrawPanel extends JPanel {
 		for (int i = 0; i < shapeCount; i++)
 			shapes[i].draw(g);
 
-		// TODO
+		// display number of shapes drawn
+		g.setColor(Color.BLACK);
+		g.drawString("Shapes: " + shapeCount, 10, getHeight() - 5);
 	} // end method paintComponent
 
 	// sets the drawing color
@@ -56,18 +59,29 @@ public class DrawPanel extends JPanel {
 	private class MouseHandler extends MouseAdapter {
 		// creates and sets the initial position for the new shape
 		public void mousePressed(MouseEvent e) {
-			// TODO	
+			currentShape = new MyRect(e.getX(), e.getY(), e.getX(), e.getY(), currentColor, filledShape);
+			shapes[shapeCount] = currentShape;
+			repaint();
 		} // end method mousePressed
 
 		// fixes the current shape onto the panel
 		public void mouseReleased(MouseEvent e) {
-			// TODO
+			if (currentShape != null) {
+				currentShape.setX2(e.getX());
+				currentShape.setY2(e.getY());
+				shapeCount++;
+				currentShape = null;
+				repaint();
+			}
 		} // end method mouseReleased
 
-		
 		// update the shape to the current mouse position while dragging
 		public void mouseDragged(MouseEvent e) {
-			// TODO
+			if (currentShape != null) {
+				currentShape.setX2(e.getX());
+				currentShape.setY2(e.getY());
+				repaint();
+			}
 		} // end method mouseDragged
 
 	} // end class MouseHandler

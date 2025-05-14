@@ -1,3 +1,4 @@
+package ntou.cs.java2025;
 public class StaticBonus implements Bonus {
 
 	@Override

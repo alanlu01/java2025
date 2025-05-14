@@ -1,3 +1,4 @@
+package ntou.cs.java2025;
 import java.util.Scanner;
 
 public abstract class Employee extends Object {

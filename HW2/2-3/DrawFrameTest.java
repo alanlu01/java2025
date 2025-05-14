@@ -1,3 +1,4 @@
+package ntou.cs.java2025;
 import javax.swing.*;
 
 public class DrawFrameTest {

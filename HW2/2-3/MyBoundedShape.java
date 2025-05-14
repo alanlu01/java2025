@@ -1,3 +1,4 @@
+package ntou.cs.java2025;
 import java.awt.Color;
 
 public abstract class MyBoundedShape extends MyShape {
