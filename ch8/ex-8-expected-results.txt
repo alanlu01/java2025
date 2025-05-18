@@ -1,0 +1,23 @@
+Please enter the cost of gasoline: I don't know
+Exception: java.util.InputMismatchException
+You must enter integers. Please try again.
+Thank you for the test!
+
+Please enter the cost of gasoline: 1666
+Please enter the liters of gasoline: I forgot it!
+Exception: java.util.InputMismatchException
+You must enter integers. Please try again.
+Thank you for the test!
+
+Please enter the cost of gasoline: 1666
+Please enter the liters of gasoline: 50.5
+Please enter the brand (1: CPC, 2: FPCC, 3: Costco): 4
+Exception: java.lang.ArrayIndexOutOfBoundsException: Index 4 out of bounds for length 4
+You must enter a vaild brand number! Please try again.
+Thank you for the test!
+
+Please enter the cost of gasoline: 1666
+Please enter the liters of gasoline: 50.5
+Please enter the brand (1: CPC, 2: FPCC, 3: Costco): 2
+Cost per liter of fuel for Formosa Petrochemical Corporation: 1666 / 50.50 = 32.99
+Thank you for the test!

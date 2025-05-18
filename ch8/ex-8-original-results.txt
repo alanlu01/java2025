@@ -1,0 +1,19 @@
+Please enter the cost of gasoline: 1220
+Please enter the liters of gasoline: 41.6
+Please enter the brand (1: CPC, 2: FPCC, 3: Costco): 1
+Cost per liter of fuel for Chinese Petroleum Corporation: 1220 / 41.60 = 29.33
+
+---
+
+Please enter the cost of gasoline: very high
+Exception in thread "main" java.util.InputMismatchException
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
+	at ntou.cs.java.exception.FuelCalculator.calculateFuelUnitPrice(FuelCalculator.
+java:16)
+	at ntou.cs.java.exception.FuelCalculatorTest.main(FuelCalculatorTest.java:6)
+	
+
+
